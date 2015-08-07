@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Irish Salary Calculator</string>
+    <string name="result">Annual Salary Breakdown</string>
+    <string name="action_settings">Settings</string>
+    <string name="gross_salary">Gross Annual Salary:</string>
+    <string name="status">Status:</string>
+    <string name="pension_input">Pension (%):</string>
+    <string name="pension_display">-  Pension Contribution:</string>
+    <string name="salary_sacrifice_input">Salary Sacrifice:</string>
+    <string name="salary_sacrifice_display">-  Salary Sacrifice:</string>
+    <string name="age">Age:</string>
+    <string name="zero">0</string>
+    <string name="suggested_age">30</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="prsi">+  PRSI:</string>
+    <string name="usc">+  USC:</string>
+    <string name="standard_tax">Standard Tax Rate (20%)</string>
+    <string name="higher_tax">Higher Tax Rate (40%)</string>
+    <string name="tax_credits">-  Tax Credits:</string>
+    <string name="income_tax">Gross Tax:</string>
+    <string name="total_tax">Net Tax:</string>
+    <string name="net_salary">Net Annual Salary:</string>
+    <string name="monthly_income">Monthly Income:</string>
+    <string name="weekly_income">Weekly Income:</string>
+    <string name="daily_income">Daily Income:</string>
+    <string name="title_activity_result">Result</string>
+    <string name="taxable_salary">Taxable Salary:</string>
+    <string name="total_deduction">Total Deductions:</string>
+    <string name="bik">Health Insurance BIK:</string>
+    <string name="bik_result">+  Health BIK:</string>
+    <string-array name="status_array">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Widowed</item>
+        <item>Lone Parent</item>
+    </string-array>
+    <string name="single">Single</string>
+
+</resources>
